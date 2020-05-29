@@ -2,7 +2,7 @@
 This repo contains a noumber of python programs that I wrote while i was getting started with python and also learning how to use **GITHUB** 
 Use the tree structue given below to navigate to program which you find of interst.
 
-+---2_week_1
+###2_week_1
 |   |   1st_wrd_2_lst.py
 |   |   3rd_word_to_three.py
 |   |   counting_char_in _file.py
