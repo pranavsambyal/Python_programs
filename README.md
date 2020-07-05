@@ -1,6 +1,6 @@
 # Python_programs
 This repo contains a noumber of python programs that I wrote while i was getting started with python and also learning how to use **GITHUB** 
-####Use the tree structue given below to navigate to program which you find of interst.
+#### Use the tree structue given below to navigate to program which you find of interst.
 
 <pre>
 │
