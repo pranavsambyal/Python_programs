@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037e313d-83c3-45e0-a300-7e57db4d6593" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/funct_x_calling_y.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/int_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/list_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/string_con_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assessment_1/sum_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_week_3_assignment_2/tuple_lst_to_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_var_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lst_of_tupple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ret_1_funct_to_other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srring_output_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subtract_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totaler.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dMRkrxlkRP76RgF7oRHrW5c0LM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037e313d-83c3-45e0-a300-7e57db4d6593" name="Default Changelist" comment="" />
+      <created>1592233121360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592233121360</updated>
+      <workItem from="1592233122926" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
